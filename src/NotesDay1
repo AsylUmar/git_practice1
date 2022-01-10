@@ -1,6 +1,9 @@
 
 
 everything is saved to local master when you commit, but not in the remote repository unless you push
+green color => being tracked but not committed yet
+Green means the branch is ahead of its remote (green light to push) Red means the branch is behind its remote.
+
 
 1. Open your IntelliJ and create new Java Project
 2. Name your `git_practice1`
